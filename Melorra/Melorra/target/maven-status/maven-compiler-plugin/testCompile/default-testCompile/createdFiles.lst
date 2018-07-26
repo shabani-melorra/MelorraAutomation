@@ -1,0 +1,8 @@
+com\melorra\qa\tests\HomePageTest.class
+com\melorra\qa\tests\CheckoutPageTest.class
+com\melorra\qa\tests\CatalogPageTest.class
+com\melorra\qa\tests\SignupPageTest.class
+com\melorra\qa\tests\LoginPageTest.class
+com\melorra\qa\tests\MyAccountPageTest.class
+com\melorra\qa\tests\NewPdpPageTest.class
+com\melorra\qa\tests\OldPdpPageTest.class

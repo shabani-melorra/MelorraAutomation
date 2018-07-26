@@ -1,0 +1,10 @@
+com\melorra\qa\pages\HomePage.class
+com\melorra\qa\pages\OldPdpPage.class
+com\melorra\qa\pages\CatalogPage.class
+com\melorra\qa\base\TestBase.class
+com\melorra\qa\pages\LoginPage.class
+com\melorra\qa\pages\SignupPage.class
+com\melorra\qa\util\TestUtil.class
+com\melorra\qa\pages\CheckoutPage.class
+com\melorra\qa\pages\MyAccountPage.class
+com\melorra\qa\pages\NewPdpPage.class
